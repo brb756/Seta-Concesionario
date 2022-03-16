@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 17px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: inherit;
+}
+.boxc{
+    margin-top: 15px;
+    margin-left: 110px;
+    width: 390px;
+    height: 10px;
+    background-color: transparent;
+    float: left;
+}
+.boxc a{
+    color: rgb(47, 72, 155);
+    text-decoration: none;
+}
+.boxm{
+    margin-top: 15px;
+    margin-left: 280px;
+    height: 50px;
+    width: 75px;
+    background-color: transparent;
+    color: grey;
+    float: left;
+}
+.boxm2{
+    margin-top: 15px;
+    height: 50px;
+    width: 110px;
+    background-color: transparent;
+    float: left;
+}
+.boxl{
+    margin-top: 15px;
+    height: 50px;
+    width: 160px;
+    background-color: transparent;
+    float: left;
+}
+.boxl a{
+    color: rgb(47, 72, 155);
+    text-decoration: none;
+}
+.boxk{
+    margin-top: 15px;
+    height: 50px;
+    width: 140px;
+    float: left;
+}
+.boxk a{
+    color: #929292;
+    text-decoration: none;
+}
+.separar{
+    margin-top: 40px;
+    background-color: #929292;
+    height: 2px;
+    width: 1360px;
+}
+.set-logo{
+    margin-top: 30px;
+    margin-left: 90px;
+    float: left;
+}
+.buscar{
+    margin-top: 50px;
+    margin-left: 700px;
+    height: 50px;
+    width: 140px;
+    float: left;
+}
+.separar2{
+    margin-top: 20px;
+    background-color: #929292;
+    height: 2px;
+    width: 1360px;
+    float: left;
+}
+.productos{
+    margin-top: 150px;
+    margin-left: 35px;
+    margin-right: 35px;
+    height: 50px;
+}
+.p1{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p1 p{
+    color: #929292;
+}
+.p2{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p2 p{
+    color: #929292;
+}
+.p3{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p3 p{
+    color: #929292;
+}
+.p4{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p4 p{
+    color: #929292;
+}
+.p5{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p5 p{
+    color: #929292;
+}
+.p6{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p6 p{
+    color: #929292;
+}
+.p7{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p7 p{
+    color: #929292;
+}
+.p8{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p8 p{
+    color: #929292;
+}
+.p9{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.p9 p{
+    color: #929292;
+}

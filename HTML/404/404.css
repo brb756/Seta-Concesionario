@@ -1,0 +1,8 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.error a{
+    color: #4478BE;
+    text-decoration: none;
+}
